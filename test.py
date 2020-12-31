@@ -1,1 +1,1 @@
-print("xingchangtong")
+print("gtong")
